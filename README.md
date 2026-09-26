@@ -40,12 +40,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid1838&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahid1838&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid1838&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
@@ -57,7 +57,7 @@
 <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>&nbsp;
-<a href="mailto:your-email@example.com">
+<a href="md.nahid186502@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>&nbsp;
 <a href="https://your-portfolio-link.com" target="_blank">
