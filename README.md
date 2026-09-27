@@ -55,10 +55,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="md.nahid186502@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:md.nahid186502@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.facebook.com/md.nahid.8251" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;
 <a href="https://your-portfolio-link.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
