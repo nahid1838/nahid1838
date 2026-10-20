@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<a href="https://www.linkedin.com/in/nadiul-islam-nahid/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:md.nahid186502@gmail.com">
@@ -63,7 +63,7 @@
 <a href="https://www.facebook.com/md.nahid.8251" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://portfolio-sigma-smoky-kf9ch99oog.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
