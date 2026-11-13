@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Nadiul%20Islam%20Nahid%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=62&descSize=16" width="100%"/>
@@ -177,4 +177,4 @@ A frontend project that displays market price information and helps users explor
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-```
+
